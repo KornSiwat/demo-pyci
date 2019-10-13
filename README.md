@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/KornSiwat/demo-pyci.svg?branch=master)](https://travis-ci.com/your_acctid/demo-pyci)
+[![Build Status](https://travis-ci.com/KornSiwat/demo-pyci.svg?branch=master)](https://travis-ci.com/KornSiwat/demo-pyci)
 
 Continuous Integration Demo
 ============================
